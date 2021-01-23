@@ -12,6 +12,8 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 Your final report should include each of the following:
 </p>
 
+<p align="justify">
+ 
 ## District Summary
 
 * Create a high level snapshot (in table form) of the district's key metrics, including:
@@ -56,3 +58,17 @@ Your final report should include each of the following:
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
  <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Top%20Performing%20Schools.PNG">
+ 
+ ## Bottom Performing Schools (By % Overall Passing)
+ 
+ * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+ 
+ <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Bottom%20Performing%20Schools.PNG">
+ 
+  ## Math Scores by Grade
+  
+  * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+  
+  <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Math%20Scores%20by%20Grade.PNG">
+  
+</p>
