@@ -23,4 +23,10 @@ Your final report should include each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/High%20Level%20%20snapshot.PNG">
+  
+  ## District Summary
+
+* Create a high level snapshot (in table form) of the district's key metrics, including:
 
