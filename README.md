@@ -1,7 +1,7 @@
 # Pandas Challenge :octocat: :computer:
 The data dive continues! It's time to take what you've learned about Python Pandas and apply it to new situations; 
 
-## PyCitySchools
+# PyCitySchools
 
 <p align="justify">
 
@@ -11,3 +11,17 @@ Well done! Having spent years analyzing financial records for big banks, you've 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 Your final report should include each of the following:
 </p>
+
+## District Summary
+
+```
+* Create a high level snapshot (in table form) of the district's key metrics, including:
+  * Total Schools
+  * Total Students
+  * Total Budget
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math (The percentage of students that passed math.)
+  * % Passing Reading (The percentage of students that passed reading.)
+  * % Overall Passing (The percentage of students that passed math **and** reading.)
+```
