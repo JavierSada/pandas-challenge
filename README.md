@@ -94,7 +94,7 @@ Your final report should include each of the following:
   
   <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Scores%20by%20School%20Size.PNG">
   
-  # Scores by School Type
+  ## Scores by School Type
   
   * * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
   
