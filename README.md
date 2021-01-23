@@ -101,3 +101,5 @@ Your final report should include each of the following:
   <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Scores%20by%20School%20Type.PNG">
   
 </p>
+
+<img height="450" src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/School.jpg">
