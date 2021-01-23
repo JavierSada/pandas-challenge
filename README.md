@@ -42,3 +42,17 @@ Your final report should include each of the following:
 
  <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/School%20Summary.PNG">
 
+## Top Performing Schools (By % Overall Passing)
+
+* School Name
+  * School Type
+  * Total Students
+  * Total School Budget
+  * Per Student Budget
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math (The percentage of students that passed math.)
+  * % Passing Reading (The percentage of students that passed reading.)
+  * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+ <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Top%20Performing%20Schools.PNG">
