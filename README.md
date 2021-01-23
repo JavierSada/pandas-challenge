@@ -26,7 +26,19 @@ Your final report should include each of the following:
   
   <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/High%20Level%20%20snapshot.PNG">
   
-  ## District Summary
+  ## School Summary
 
-* Create a high level snapshot (in table form) of the district's key metrics, including:
+* Create an overview table that summarizes key metrics about each school, including:
+  * School Name
+  * School Type
+  * Total Students
+  * Total School Budget
+  * Per Student Budget
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math (The percentage of students that passed math.)
+  * % Passing Reading (The percentage of students that passed reading.)
+  * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+ <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/School%20Summary.PNG">
 
