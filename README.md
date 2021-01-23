@@ -71,4 +71,27 @@ Your final report should include each of the following:
   
   <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Math%20Scores%20by%20Grade.PNG">
   
+   ## Reading Scores by Grade
+  
+  * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+  
+  <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Reading%20Scores%20by%20Grade.PNG">
+  
+  ## Scores by School Spending
+  
+  * Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math (The percentage of students that passed math.)
+  * % Passing Reading (The percentage of students that passed reading.)
+  * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+  <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Scores%20by%20School%20Spending.PNG">
+  
+   ## Scores by School Size
+  
+  * * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+  
+  <img src="https://github.com/JavierSada/pandas-challenge/blob/main/PyCitySchools/Resources/Scores%20by%20School%20Size.PNG">
+  
 </p>
